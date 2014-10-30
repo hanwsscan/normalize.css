@@ -1,7 +1,5 @@
 === HEAD
 
-=== 2.1.3 (August 26, 2013)
-
 * Fix component.json.
 * Remove the gray background color from active links in IE 10.
 
